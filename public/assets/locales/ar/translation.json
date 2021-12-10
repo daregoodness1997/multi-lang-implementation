@@ -1,0 +1,6 @@
+{
+  "app_title": "عنوان",
+  "language": "لغة",
+  "welcome_message": "أهلا بك",
+  "days_since_release": "ر {{number_of_days}} يوم منذ إصدار هذا الفيديو في {{years}}"
+}
